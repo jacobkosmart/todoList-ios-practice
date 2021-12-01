@@ -8,6 +8,7 @@
 import UIKit
 
 @main
+// @UIApplicationMain // to build on xcode 11.5
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
