@@ -1,6 +1,6 @@
 # TodoList-ios-practice
 
-<img width="500" alt="스크린샷" src="https://user-images.githubusercontent.com/28912774/144228449-51aee162-e618-4849-bc02-7a63928bafb5.gif">
+<img width="350" alt="스크린샷" src="https://user-images.githubusercontent.com/28912774/144228449-51aee162-e618-4849-bc02-7a63928bafb5.gif">
 
 ## 기능 상세
 
